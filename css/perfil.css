@@ -1,0 +1,24 @@
+*{
+    margin: auto;
+    padding: auto;
+    display: flex;
+}
+body{
+    background: linear-gradient(180deg,  rgb(104, 32, 153), rgb(204, 0, 255));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    height: 100%;
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.perfil h1{
+    color: rgb(17, 11, 24);
+    text-shadow: blue 3px 3px 3px;
+}
+.perfil p a{
+    
+}
